@@ -1,6 +1,6 @@
 {
-  "name": "Bento Starter",
-  "short_name": "Bento",
+  "name": "BitAnal Vue",
+  "short_name": "BitAnal",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
@@ -15,6 +15,6 @@
   ],
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#FFFFFF"
+  "background_color": "#000030",
+  "theme_color": "#000030"
 }
